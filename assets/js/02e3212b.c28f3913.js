@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkweb_3_onboarding_site=globalThis.webpackChunkweb_3_onboarding_site||[]).push([[8770],{83(e){e.exports=JSON.parse('{"metadata":{"permalink":"/web3-onboarding-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

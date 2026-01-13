@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkweb_3_onboarding_site=globalThis.webpackChunkweb_3_onboarding_site||[]).push([[1903],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/web3-onboarding-site/blog","blogTitle":"Blog","authorsListPath":"/web3-onboarding-site/blog/authors"}')}}]);
