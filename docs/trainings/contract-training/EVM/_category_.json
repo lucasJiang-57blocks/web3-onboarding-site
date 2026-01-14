@@ -1,0 +1,8 @@
+{
+  "label": "EVM Trainings",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Trainings for EVM-based blockchain development"
+  }
+}

@@ -89,11 +89,16 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'learningPathsSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Learning Paths',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          type: 'docSidebar',
+          sidebarId: 'trainingsSidebar',
+          position: 'left',
+          label: 'Trainings',
+        },
         {
           href: 'https://github.com/lucasJiang-57blocks/web3-onboarding-site',
           label: 'GitHub',
