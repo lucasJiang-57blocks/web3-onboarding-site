@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
+  title: 'Web3 Onboarding Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -81,9 +81,9 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: 'Web3 Training',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Web3 Training Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -95,7 +95,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/lucasJiang-57blocks/web3-onboarding-site',
           label: 'GitHub',
           position: 'right',
         },
@@ -144,7 +144,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} 57Blocks, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
